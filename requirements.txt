@@ -54,7 +54,7 @@ pathspec==1.1.1
 pep8-naming==0.15.1
 platformdirs==4.12.4
 pluggy==1.7.0
-psycopg2-binary==2.9.10
+psycopg2-binary==2.9.13
 pycodestyle==2.14.0
 pycparser==3.11
 pydocstyle==6.3.0
