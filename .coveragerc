@@ -1,0 +1,6 @@
+[run]
+source = reposteria
+omit = 
+    tests/*
+    autoapp.py
+
