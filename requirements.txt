@@ -60,7 +60,7 @@ pycparser==3.11
 pydocstyle==6.3.0
 pyflakes==3.4.0
 Pygments==2.21.0
-pytest==8.4.1
+pytest==9.1.1
 pytest-cov==6.2.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.4
